@@ -1,3 +1,5 @@
+
+// arrays = lists 
 var reptiles = ["Lizards", "Turtles","Dinosaur" ];
 
 var amphibians = ["Frogs", "Salamanda","Caudata" ];
